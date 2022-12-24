@@ -43,3 +43,10 @@ alt="HTML"
 </p>
 
 ---
+
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=dpkssh&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/dpkssh/github-readme-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpkssh&theme=dracula&include_private=True)
+
+![](https://api.githubtrends.io/user/svg/dpkssh/langs?time_range=one_year&include_private=True&theme=classic)
